@@ -1,1 +1,3 @@
-#!/bin/bach \necho "ALX"
+#!/bin/bash
+
+echo "ALX School"
