@@ -1,1 +1,2 @@
-#!/bin/bach \necho "School"
+#!/bin/bach
+echo "The school is open!"
